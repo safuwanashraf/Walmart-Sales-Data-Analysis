@@ -23,7 +23,7 @@ Select columns with null values in them. There are no null values in our databas
 Add a new column named time_of_day to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
 Add a new column named day_name that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week of the day each branch is busiest.
 Add a new column named month_name that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
---Exploratory Data Analysis (EDA): Exploratory data analysis is done to answer the listed questions and aims of this project.
+--Exploratory Data Analysis (EDA): Exploratory data analysis is done to answer the questions and aims of this project.
 # Insights
 General Insights
 Unique Cities: The dataset includes sales data from three distinct cities.
